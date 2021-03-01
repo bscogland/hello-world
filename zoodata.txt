@@ -1,0 +1,1 @@
+123456            bob         mammal         monkey 0 1
